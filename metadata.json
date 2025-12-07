@@ -1,0 +1,5 @@
+{
+  "name": "AuditGuard AI",
+  "description": "Enterprise Financial Transaction Audit System powered by Gemini AI. automates risk scoring and compliance checks for internal auditors.",
+  "requestFramePermissions": []
+}
